@@ -1,0 +1,401 @@
+<div id="page" class="site">
+	
+
+			<header id="masthead" class="site-header">
+			<div class="container cww-flex">
+						<div class="site-branding">
+			<a href="https://brp.com.np/" class="custom-logo-link" rel="home" aria-current="page"><img src="https://brp.com.np/wp-content/uploads/2023/04/portfolio-1.png" class="custom-logo" alt="Bishworaj Poudel" decoding="async" width="268" height="49"></a>				<p class="site-title"><a href="https://brp.com.np/" rel="home">Bishworaj Poudel</a></p>
+								<p class="site-description">Technology Person From Nepal</p>
+					</div><!-- .site-branding -->
+						<div class="menu-wrapp">
+							<button class="button is-text" id="mob-toggle-menu-button">
+            <span class="button-inner-wrapper">
+                <span class="icon menu-icon"></span>
+			</span>
+        </button>
+							<div class="cww-menu-outer-wrapp cww-flex">
+						<nav id="site-navigation" class="main-navigation">
+							
+							<div class="cww-nav-container"><ul id="primary-menu" class="cww-main-nav"><li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36 current"><a href="#cww-banner-section">Home</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="#cww-about-section">About</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a href="#cww-service-section">Service</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a href="#cww-portfolio-section">Portfolio</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="#cww-blog-section">Blog</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="#cww-contact-section">Contact</a></li>
+</ul></div>						</nav><!-- #site-navigation -->
+								<div class="header-cta-wrapp">
+			<a href="https://calendly.com/bishworajpoudelofficial/">
+				<span>
+				Schedule Meeting				</span>	
+			</a>
+		</div>
+								<div class="menu-last-focus-item"></div>
+					</div>
+				</div>
+			</div>
+		</header><!-- #masthead -->
+			
+<div id="cww-site-content" class="cww-site-content">		<section id="cww-banner-section" class="cww-main-banner">
+			<div class="container">
+			<div class="animated-bg"></div> 
+
+			<div class="cotent-wrapp-banner cww-flex">
+     		<div class="img-wrapp">
+				<img src="https://brp.com.np/wp-content/uploads/2023/04/sitepic.png" alt="Home">
+			</div>
+			
+			
+			<div class="content-wrapp">
+				<h5>Namaste From</h5>
+				<h2>Bishworaj Poudel</h2>
+				<p>from beautiful country Nepal</p>
+
+				<div class="button-wrapp cww-flex">
+					<div class="btn-primary">
+						<a href="#cww-portfolio-section"> 
+							<span>View My Portfolio </span>
+						</a>
+					</div>
+					<div class="btn-secondary">
+						<a href="#cww-contact-section" class="cww-flex">
+						 <span>Contact Me </span>
+						 <svg class="svg-icon" width="14" height="14" aria-hidden="true" role="img" focusable="false" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 490.656 490.656" style="enable-background:new 0 0 490.656 490.656;" xml:space="preserve"><g><g><path d="M487.536,120.445c-4.16-4.16-10.923-4.16-15.083,0L245.339,347.581L18.203,120.467c-4.16-4.16-10.923-4.16-15.083,0c-4.16,4.16-4.16,10.923,0,15.083l234.667,234.667c2.091,2.069,4.821,3.115,7.552,3.115s5.461-1.045,7.531-3.136l234.667-234.667C491.696,131.368,491.696,124.605,487.536,120.445z"></path></g></g></svg>						</a>
+					</div>
+				</div>
+
+			</div>
+
+			</div>
+			
+
+			<div class="bottom-style">
+							<div class="social-icon-wrapp">
+				
+								<a href="https://www.facebook.com/bishworajpoudelofficial">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+				
+								<a href="https://www.instagram.com/bishworajpoudelofficial">
+					<i class="fa fa-instagram" aria-hidden="true"></i>
+				</a>
+				
+								<a href="https://twitter.com/iambishworaj">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+				</a>
+				
+								<a href="https://www.linkedin.com/in/bishworajpoudelofficial/">
+					<i class="fa fa-linkedin" aria-hidden="true"></i>
+				</a>
+							</div>
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400.6 1226.4" enable-background="new 0 0 1400.6 1226.4">
+		            <path fill="currentColor" d="M1384.4,488c-49.2-80.5-218.1-104.6-341.5-187.7C920.4,218,845.3,76.7,731.8,24C618.3-27.9,466.3,8.8,342,91    C217.8,173.3,120.4,301.1,59.6,449.5C-0.3,597.9-23.6,766.9,30.1,905.4c52.7,138.6,182.4,246.7,318.2,292.3    c135.9,46.5,278,29.5,397.8-1.8c119.8-32.2,216.3-78.7,303-141.2c86.7-61.7,163.6-137.7,238.7-244C1362,704.3,1433.6,568.4,1384.4,488z"></path>
+		        </svg>
+			</div>
+		</div>
+		</section>
+		<script src="https://brp.com.np/wp-content/plugins/cww-companion/inc/assets//waypoints/jquery.waypoints.min.js?ver=1.2.0" id="jquery-waypoints-js"></script>
+<script src="https://brp.com.np/wp-content/plugins/cww-companion/inc/assets//counter-up/jquery.counterup.min.js?ver=1.2.0" id="jquery-counterup-js"></script>
+		<section id="cww-about-section" class="cww-about-section">
+			<div class="container">
+				<div class="left-wrapp">
+					<div class="img-wrapp">
+						<img src="https://brp.com.np/wp-content/uploads/2023/04/329276156_1218705359042238_4282677686376478049_n-1.jpg" alt="Home">
+					</div>
+				</div>
+				<div class="right-wrapp">
+					<div class="section-title-wrapp">
+						<h3>About Me</h3>
+						<p>Technology Personality From Nepal</p>
+					</div>
+					<div class="desc-wrapp">
+						<p><strong><span>Hii, I help your business to grow in this digital world using the latest technology. With my 5+ years of experience in the technology field, your business will fly like a rocket.&nbsp;</span></strong></p><p><span>I also create tech content on my YouTube channel named "Technology Channel". I offer coding, web development, app development, and digital marketing classes that can help you land a job or start your own project.</span></p>					</div>
+					<div class="counter-wrapp cww-flex">
+												<div class="count-item-wrapp">
+							<div class="count-val">243000</div>
+							<p>+ Subscribers</p>
+						</div>
+						
+												<div class="count-item-wrapp">
+							<div class="count-val">50000</div>
+							<p>+ App Downloads</p>
+						</div>
+					
+					</div>
+				</div>
+			</div>
+		</section>
+		<script src="https://brp.com.np/wp-content/plugins/cww-companion/inc/assets//jarallax/jarallax.min.js?ver=1.2.0" id="jarallax-js"></script>
+		<section id="cww-cta-section" class="cww-cta-section" style="background-image: none; z-index: 0;" data-jarallax-original-styles="background-image:url(https://brp.com.np/wp-content/uploads/2023/04/318769347_1197581530967461_4429061638814459994_n.jpg)">
+			<div class="container">
+				<h3>Want to work together!</h3>
+				<div class="subtitle">I help you to grow digitally.</div>
+
+				<div class="btn-wrapper">
+					<a href="https://calendly.com/bishworajpoudelofficial">
+						<span>
+						Book Appointment						</span>
+					</a>
+				</div>
+			</div>
+		<div style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; z-index: -100;" id="jarallax-container-0"><div style="background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url(&quot;https://brp.com.np/wp-content/uploads/2023/04/318769347_1197581530967461_4429061638814459994_n.jpg&quot;); position: fixed; top: 0px; left: 0px; width: 1349px; height: 396.8px; overflow: hidden; pointer-events: none; transform-style: preserve-3d; backface-visibility: hidden; will-change: transform, opacity; margin-top: -1.9px; transform: translate3d(0px, 266.667px, 0px);"></div></div></section>
+				<section id="cww-service-section" class="cww-service-section">
+			<div class="container">
+				<div class="service-title-wrapper">
+				<div class="section-title-wrapp">
+					<h3>What I Offer</h3>
+					<p>I offer following services, pick it up and grow digitally.</p>
+				</div>
+				</div>
+
+								<div class="service-wrapper-outer cww-flex">
+											<div class="service-wrapp">
+							<div class="service-inner-wrapp">
+								<div class="counter">01</div>
+								<div class="icon"><i class="fa fa-desktop"></i></div>
+								
+								<h4>Online Class</h4>
+								<p>Learn IT courses online from me! I offer coding, web development, app development, and digital marketing classes that can help you land a job or start your own project. With my courses, you can gain new skills and knowledge that are valuable in today's job market. Join now and achieve your dream in this modern tech dominated world.</p>	
+								
+							</div>
+
+						</div>
+												<div class="service-wrapp">
+							<div class="service-inner-wrapp">
+								<div class="counter">02</div>
+								<div class="icon"><i class="fa fa-user"></i></div>
+								
+								<h4>Tech Consultation </h4>
+								<p>As a Tech Consultant with over 5 years of experience, I specialize in helping businesses leverage technology to achieve their goals. From software solutions to hardware assessments and cybersecurity measures, I can provide expert guidance tailored to your specific needs. Contact me today to get started!</p>	
+								
+							</div>
+
+						</div>
+												<div class="service-wrapp">
+							<div class="service-inner-wrapp">
+								<div class="counter">03</div>
+								<div class="icon"><i class="fa fa-mobile"></i></div>
+								
+								<h4>App Development</h4>
+								<p>As an experienced app developer with a track record of successful projects, I offer end-to-end development services for both iOS and Android. 
+
+With my proven track record of managing and creating successful apps like Salute Gorkha, Audioghar, Python Interpreter, and more, I can help turn your app idea into a reality.</p>	
+								
+							</div>
+
+						</div>
+											
+				</div>
+							</div>
+		</section>
+		<link rel="stylesheet" id="magnific-popup-css" href="https://brp.com.np/wp-content/plugins/cww-companion/inc/assets//magnific-popup/magnific-popup.css?ver=1.2.0" media="all">
+<script src="https://brp.com.np/wp-content/plugins/cww-companion/inc/assets//magnific-popup/jquery.magnific-popup.min.js?ver=1.2.0" id="jquery-magnific-popup-js"></script>
+		<section id="cww-portfolio-section" class="cww-portfolio-section gallery">
+			<div class="container">
+				<div class="section-titles-wrapper">
+				<div class="section-title-wrapp">
+					<h3>My Portfolio</h3>
+					<p>Here are some projects managed by me and team.</p>
+				</div>
+				</div>
+				
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="113" src="https://brp.com.np/wp-content/uploads/2023/04/Screenshot_1680605381.png" alt="Salute Gorkha App" class="wp-image-113" width="1080" height="1920"><figcaption class="wp-element-caption">Salute Gorkha App</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="111" src="https://brp.com.np/wp-content/uploads/2023/04/Screenshot_1680605357.png" alt="Audioghar App" class="wp-image-111" width="1080" height="1920"><figcaption class="wp-element-caption">Audioghar App</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="112" src="https://brp.com.np/wp-content/uploads/2023/04/Screenshot_1680605371.png" alt="Nepali Driving Exam App" class="wp-image-112" width="1080" height="1920"><figcaption class="wp-element-caption">Nepali Driving Exam App</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="108" src="https://brp.com.np/wp-content/uploads/2023/04/Screenshot_1680601964.png" alt="Python Coding App" class="wp-image-108" width="1080" height="1920"><figcaption class="wp-element-caption">Python Coding App</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="106" src="https://brp.com.np/wp-content/uploads/2023/04/Screenshot_1680601981.png" alt="Html Editor App" class="wp-image-106" width="1080" height="1920"><figcaption class="wp-element-caption">Html Editor App</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" data-id="107" src="https://brp.com.np/wp-content/uploads/2023/04/Screenshot_1680602018.png" alt="Khagendra Lamichhane Official Website" class="wp-image-107" width="1080" height="1920"><figcaption class="wp-element-caption">Khagendra Lamichhane Official Website</figcaption></figure>
+</figure>
+			</div>
+		</section>
+				<section id="cww-blog-section" class="cww-blog-section">
+			<div class="container">
+				<div class="section-titles-wrapper">
+				<div class="section-title-wrapp">
+					<h3>My Blogs</h3>
+					<p>Read my latest article to learn something new.</p>
+				</div>
+				</div>
+
+			<div class="blogs-wrapper cww-flex">
+							      <div class="blog-outer-wrapp">
+				      <div class="blog-inner-wrapp">
+				      	<div class="img-wrapp">
+				      		<a href="https://brp.com.np/top-10-rules-for-success/" class="post-thumbnail">
+				      		<img src="https://brp.com.np/wp-content/uploads/2021/05/329883532_900235827792021_7475183949464835738_n.jpg" alt="My Favourite 10 Rules For Success">
+				      		</a>
+				      	</div>
+				      	<div class="post-content">
+					      	<div class="entry-meta">
+								<span class="posted-on"><a href="https://brp.com.np/top-10-rules-for-success/" rel="bookmark"><time class="entry-date published" datetime="2023-04-04T15:49:02+00:00">April 4, 2023</time><time class="updated" datetime="2023-05-05T15:34:06+00:00">May 5, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://brp.com.np/author/iambrp/">iambrp</a></span></span>							</div><!-- .entry-meta -->
+							<h3>
+								<a href="https://brp.com.np/top-10-rules-for-success/"> My Favourite 10 Rules For Success </a>
+							</h3>
+														<p>
+								Hii, I am a person who always tries to learn and improve my skill and knowledge, life	
+							</p>
+														
+							<div class="read-more-link">
+								<a href="https://brp.com.np/top-10-rules-for-success/">Continue Reading</a>
+							</div>
+						</div>
+				      </div>
+				      </div>
+				      				      <div class="blog-outer-wrapp">
+				      <div class="blog-inner-wrapp">
+				      	<div class="img-wrapp">
+				      		<a href="https://brp.com.np/the-power-of-cold-emailing/" class="post-thumbnail">
+				      		<img src="https://brp.com.np/wp-content/uploads/2023/04/336513712_685444696689659_6098025252077318935_n-1.jpg" alt="The Power of Cold E-mailing">
+				      		</a>
+				      	</div>
+				      	<div class="post-content">
+					      	<div class="entry-meta">
+								<span class="posted-on"><a href="https://brp.com.np/the-power-of-cold-emailing/" rel="bookmark"><time class="entry-date published" datetime="2023-04-04T15:48:44+00:00">April 4, 2023</time><time class="updated" datetime="2023-04-05T01:19:10+00:00">April 5, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://brp.com.np/author/iambrp/">iambrp</a></span></span>							</div><!-- .entry-meta -->
+							<h3>
+								<a href="https://brp.com.np/the-power-of-cold-emailing/"> The Power of Cold E-mailing </a>
+							</h3>
+														<p>
+								What is Cold E-mailing? Cold e-mailing is a method of sending an e-mail or message to	
+							</p>
+														
+							<div class="read-more-link">
+								<a href="https://brp.com.np/the-power-of-cold-emailing/">Continue Reading</a>
+							</div>
+						</div>
+				      </div>
+				      </div>
+				      				      <div class="blog-outer-wrapp">
+				      <div class="blog-inner-wrapp">
+				      	<div class="img-wrapp">
+				      		<a href="https://brp.com.np/how-to-grow-as-an-it-student/" class="post-thumbnail">
+				      		<img src="https://brp.com.np/wp-content/uploads/2023/04/329356129_490797833033204_834481034926576427_n.jpg" alt="How to Grow as an IT Student">
+				      		</a>
+				      	</div>
+				      	<div class="post-content">
+					      	<div class="entry-meta">
+								<span class="posted-on"><a href="https://brp.com.np/how-to-grow-as-an-it-student/" rel="bookmark"><time class="entry-date published updated" datetime="2023-04-04T15:01:23+00:00">April 4, 2023</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://brp.com.np/author/iambrp/">iambrp</a></span></span>							</div><!-- .entry-meta -->
+							<h3>
+								<a href="https://brp.com.np/how-to-grow-as-an-it-student/"> How to Grow as an IT Student </a>
+							</h3>
+														<p>
+								Information Technology is a field that is growing rapidly. This field has many opport	
+							</p>
+														
+							<div class="read-more-link">
+								<a href="https://brp.com.np/how-to-grow-as-an-it-student/">Continue Reading</a>
+							</div>
+						</div>
+				      </div>
+				      </div>
+				      			 </div>
+			 </div>
+		</section>
+				<section id="cww-contact-section" class="cww-contact-section">
+			<div class="container">
+				<div class="section-titles-wrapper">
+				<div class="section-title-wrapp">
+					<h3>Contact Me</h3>
+					<p>For business related query and online class.</p>
+				</div>
+				</div>
+
+				<div class="contact-wrapp cww-flex">
+					<div class="form-wrapp">
+						
+<div class="wpcf7 js" id="wpcf7-f59-o1" dir="ltr" lang="en-US">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f59-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="59">
+<input type="hidden" name="_wpcf7_version" value="5.7.5.1">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f59-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+<input type="hidden" name="_wpcf7_recaptcha_response" value="03AAYGu2T9YGr8DG5pozyWYzx8UaG9m9xcRqEB3_jgMzkyvYQWTQYXISKE_w0aoazGwPr0c8Y3CTvpardwzLGhmNOBFl2d7nThp2eJK_KyD879yDSZ6fRo7P8HtjCPdsuv5Dd9u9jZOiHB_D9str3usBRXYKudMJkpn3piTOQEltlBfbkWL_OuzyQr7pJjqhQ4evkxMV71HINafJ9VPBDF9K4cCy45F1k6zo3hyWRDZoXqhVOshaAnM3uFnKDspqRyz0ArRig52CVsu0Ow1qTY9CfMDOJB9fP1Om7TM6AN9ZrVWl8p1mryhGLaqp6y964EnyuKPdkhPq_Or_qlfslaEQDiz5QcrRA5Fd0CLhMAgxkmQyK2SsYPRcPLAUChOHguByQg6a4BuRJyqPy6lHzN_u-rJlAae51ZeHlVYqVdl5U2tlC8gTs1M1KaRc9cQYp-8XNNtvwWMDtceeAaP41yX8_yhd_Kr7Huxw_wMbAk4sbGMjSBkKKZGpwuJX0udf6evUYB8DXBNxmRZPdASviW0vGHXeya48jx77zRrcdl-kt_zkahfj5D8hG6u8uXgZwhhDV44MwJUqfRfIw-2JohFplStb8UnkkweMMlNZz95rM8Kq9cFrDHycLbfst0Euk6S-GrVtuMCJiFUJNY04tFeEctV0NlTAWm1YLeVKHARmkfdPSYGKMC1nqBbitUqwUFSH4cTorBioxqoSqngZRygQTLIQ5EPWeoFqWSmuAb4P2Yw7V-J8fOorYavQHOGRN-EiATFboBT9C5GwFr2UQwaO80CT6OsXTCyAJyijPonxEWo4U7hf9b46mKy0jwL3cL7lrC24ggHqMW5VjJ8XIww4sulOELgmpsmgjvo2So8W3BdFcDOPD89M0SLghFQEP2aOHa9ypBT7vUsIA2qIhIyfabKLNifNDbKK8tZP6mJ-9c7olGzkiYSB6TOTwPlAzsbbSoD4tA9_0hCI62KXynkF2kDlomT3rpS3fZy2y6I7ru_S7jvCZuJx2WrSNkmLZGHD1ZKf45F-4L3OOpwft9sGJoQvcp9o2A0XKwE27s6h4s08gEyyj98zfF_sEFZOCIwVliYcyXI5H1h5C8ugq5whvFY9607-abAbRaEEXuj1iZE7elmdVbDCpZltT1JKNzoYV5dVMqrNcl3Y0WtzBG2XSCg9wqeU0sYV4xy3rY2FJODjrov9GfEp0sZnsUiCsgXG_vYbcAmmlARSqXBe4WtyDlV6Ev5MOSIDROdhDi5O51wKP9v6vnNJLFwTzvoeegj8HU2XpIos8ZCzoTmOZKTHeg0NVpbZ-2R0sLNxjRaMuNbhtJZcRovUrWzHIajK9N1Zu8hzMhvF4yo3Cj8UMSt7qXkUcHBUoP2Y7HNSx2zEkRuOtVQb3Q0pNQVL6kWn6lFXE4oPXdWVQBlIyQnhPvBzA2KZH078AkXtwa1r-5MHM9nWMN8x7Td_avRmwcbq2hSt0WsbRYOowGkss6BY0gM6TTCf-WRmj3F9UwtQsluTOs-dQbTNExnL4hUi6Z5wpJ93nbjCkpjEh6YbCNkipBATUErLUIhFftk9-C_1uBwSMBF1Sw8tNVJO1IhAZUKU_jDWjM5Ouci2zqY4yQ5CjhL7PJYvngs60ZTcqiqVFHlxLOjMW_NgWHiRY">
+</div>
+<div class="cww-flex">
+	<div class="form-elements">
+		<p><label>Name <span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" value="" type="text" name="your-name"></span> </label><br>
+<label>Email<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="your-email"></span> </label><br>
+<label>Subject<span class="wpcf7-form-control-wrap" data-name="your-subject"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Subject" value="" type="text" name="your-subject"></span> </label>
+		</p>
+	</div>
+	<p><label><span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message" name="your-message"></textarea></span> </label>
+	</p>
+</div>
+<p><input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="Contact Now"><span class="wpcf7-spinner"></span>
+</p>
+</form>
+</div>
+					</div>
+					<div class="address-wrap">
+						<h4>What’s your story? Get in touch</h4>
+						<p>Contact me for business related queries. I will try to respond as soon as possible.</p>
+
+						<div class="address-btm">
+														<div class="location-wrapp">
+								<i class="fa fa-map-marker" aria-hidden="true"></i>
+								<span>Pokhara, Nepal</span>
+							</div>
+							
+														<div class="email-wrapp">
+								<i class="fa fa-envelope-o" aria-hidden="true"></i>
+								<a href="mailto:info@brp.com.np">info@brp.com.np</a>
+							</div>
+							
+														<div class="mob-wrapp">
+								<i class="fa fa-mobile" aria-hidden="true"></i>
+								<a href="tel:+977 9805832889">+977 9805832889</a>
+							</div>
+													</div>
+						
+					</div>
+				</div>
+
+			</div>
+		</section>
+				<footer id="colophon" class="site-footer">
+			<div class="container cww-flex">
+						<div class="social-icon-wrapp">
+				
+								<a href="https://www.facebook.com/bishworajpoudelofficial">
+					<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+				
+								<a href="https://www.instagram.com/bishworajpoudelofficial">
+					<i class="fa fa-instagram" aria-hidden="true"></i>
+				</a>
+				
+								<a href="https://twitter.com/iambishworaj">
+					<i class="fa fa-twitter" aria-hidden="true"></i>
+				</a>
+				
+								<a href="https://www.linkedin.com/in/bishworajpoudelofficial/">
+					<i class="fa fa-linkedin" aria-hidden="true"></i>
+				</a>
+							</div>
+					<div class="site-info cww-flex">
+									<div class="footer-copyright">Copyright © 2023 Bishworaj Poudel</div>
+								<span class="sep">  </span>
+								</div><!-- .site-info -->
+			</div>
+		</footer><!-- #colophon -->
+		
+</div><!-- #cww-site-content -->	
+</div>
